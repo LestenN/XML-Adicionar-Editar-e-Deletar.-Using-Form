@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pessoas>
+  <pessoas codigo="1" nome="Steve Jobs2" telefone="2222-2222" />
+  <pessoas codigo="2" nome="Bill Gates" telefone="3333-3333" />
+</pessoas>

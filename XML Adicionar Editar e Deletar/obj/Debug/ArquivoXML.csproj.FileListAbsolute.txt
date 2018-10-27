@@ -1,0 +1,20 @@
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\bin\Debug\ArquivoXML.exe.config
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\bin\Debug\ArquivoXML.exe
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\bin\Debug\ArquivoXML.pdb
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.csprojAssemblyReference.cache
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.Form1.resources
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.Properties.Resources.resources
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.csproj.GenerateResource.cache
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.csproj.CoreCompileInputs.cache
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.exe
+C:\Users\joaof_000\Desktop\C# Avançado\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.pdb
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\bin\Debug\ArquivoXML.exe.config
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\bin\Debug\ArquivoXML.exe
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\bin\Debug\ArquivoXML.pdb
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\obj\Debug\ArquivoXML.csprojAssemblyReference.cache
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\obj\Debug\ArquivoXML.Form1.resources
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\obj\Debug\ArquivoXML.Properties.Resources.resources
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\obj\Debug\ArquivoXML.csproj.GenerateResource.cache
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\obj\Debug\ArquivoXML.csproj.CoreCompileInputs.cache
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\obj\Debug\ArquivoXML.exe
+C:\Users\joaof_000\Desktop\LestenN #Cprogram\XML Adicionar Editar e Deletar\obj\Debug\ArquivoXML.pdb
